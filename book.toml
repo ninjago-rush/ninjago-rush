@@ -1,0 +1,10 @@
+[book]
+title = "Ninjago Rush"
+authors = ["ninjago-rush"]
+src = "src"
+description = "Two ways to download Ninjago Rush"
+language = "en"
+multilingual = false
+
+[output.html]
+git-repository-url = "https://github.com/ninjago-rush/ninjago-rush"
