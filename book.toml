@@ -7,4 +7,4 @@ language = "en"
 multilingual = false
 
 [output.html]
-git-repository-url = "https://github.com/ninjago-rush/ninjago-rush"
+git-repository-url = "https://github.com/ninjago-rush/ninjago-rush.github.io"
